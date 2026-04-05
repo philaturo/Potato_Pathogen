@@ -9,12 +9,6 @@
 *.tar
 *.7z
 
-# Keep empty folders but ignore their contents
-data/raw/*/
-!data/raw/*/.gitkeep
-!data/processed/*/.gitkeep
-!results/*/.gitkeep
-
 # Python
 __pycache__/
 *.pyc
