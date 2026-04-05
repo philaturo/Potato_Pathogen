@@ -1,0 +1,42 @@
+# Large data files (excluded from git)
+*.fastq.gz
+*.fasta
+*.qza
+*.qzv
+*.biom
+*.zip
+*.gz
+*.tar
+*.7z
+
+# Keep empty folders but ignore their contents
+data/raw/*/
+!data/raw/*/.gitkeep
+data/processed/*/
+!data/processed/*/.gitkeep
+results/*/
+!results/*/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs and temp
+*.log
+temp/
+git_backup/
+
+# Office temp files
+~$*
+*.docx~ 
