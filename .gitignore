@@ -40,3 +40,4 @@ git_backup/
 # Office temp files
 ~$*
 *.docx~ 
+.ipynb_checkpoints/
