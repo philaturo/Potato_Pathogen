@@ -1,0 +1,10 @@
+Metric,Value
+Total sequences,50016
+Mean length (bp),420
+Min length (bp),400
+Max length (bp),500
+Mean GC content (%),53.4
+V3-V4 region sequences,0
+Short sequences (<400bp),0
+Medium sequences (400-450bp),49761
+Long sequences (>450bp),255
