@@ -1,0 +1,11 @@
+Region,Genus,Reads
+Central,Alternaria,27257.0
+Central,Fusarium,12859.0
+East,Alternaria,28496.0
+East,Fusarium,52186.0
+North,Alternaria,29326.0
+North,Fusarium,20881.0
+South,Alternaria,20951.0
+South,Fusarium,99164.0
+West,Alternaria,65386.0
+West,Fusarium,85126.0
