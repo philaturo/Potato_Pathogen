@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Results (if you want to ignore them)
+results/
+
+# Ignore processed data (optional)
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
