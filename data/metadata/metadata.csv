@@ -1,18 +1,18 @@
-FileID	SampleID	Region	Code
-DNA_1	Dubarwa	Debub	DNA 1
-DNA_2	Mendefera	Debub	DNA 2
-DNA_3	Emni_Haili	Debub	DNA 3
-DNA_4	Adi_Kuala	Debub	DNA 4
-DNA_5	Senafe	Debub	DNA 5
-DNA_6	Adi_Keih	Debub	DNA 6
-DNA_7	Segeneiti	Debub	DNA 7
-DNA_8	Dekemhare	Debub	DNA 8
-DNA_9	Gala_Nefhi	Maekel	DNA 9
-DNA_10	Serejeka	Maekel	DNA 10
-DNA_11	Berik	Maekel	DNA 11
-DNA_12	Adi_Tekeliezan	Anseba	DNA 12
-DNA_13	Asmara	Maekel	DNA 13
-DNA_14	Logo_Anseba	Gash_Barka	DNA 14
-DNA_15	Asy_Dubarwa	Debub	DNA 15
-DNA_16	Asy_Adi_Keih	Debub	DNA 16
-DNA_17	Asy_Gala_Nefhi	Maekel	DNA 17
+FileID,Type,Region
+DNA_1,Symptomatic,North
+DNA_2,Asymptomatic,North
+DNA_3,Symptomatic,South
+DNA_4,Asymptomatic,South
+DNA_5,Symptomatic,East
+DNA_6,Asymptomatic,East
+DNA_7,Symptomatic,West
+DNA_8,Asymptomatic,West
+DNA_9,Symptomatic,North
+DNA_10,Asymptomatic,North
+DNA_11,Symptomatic,South
+DNA_12,Asymptomatic,South
+DNA_13,Symptomatic,East
+DNA_14,Asymptomatic,East
+DNA_15,Symptomatic,West
+DNA_16,Asymptomatic,West
+DNA_17,Symptomatic,Central
